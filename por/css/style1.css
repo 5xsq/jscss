@@ -1,0 +1,107 @@
+
+::-webkit-scrollbar-track{
+    background:#e5e5e5
+}
+::-webkit-scrollbar-thumb{
+    background:#888
+}
+::-webkit-scrollbar-thumb:hover{
+    background:#555
+}
+.card a{
+    color:#0d0d0d
+}
+.card a:hover{
+    text-decoration:underline
+}
+.card{
+    color:#606060;
+    background-color:#fff;
+    border:1px solid #e5e5e5;
+    margin-bottom:10px
+}
+.card a i{
+    color:#909090
+}
+.card a:hover i{
+    color:#606060
+}
+.card-body img,.card-body iframe{
+    max-width:100%
+}
+.small-avatar{
+    width:30px;
+    height:auto;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    margin-right:10px
+}
+.medium-avatar{
+    width:48px;
+    height:auto;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    margin-right:10px
+}
+.total-subscribers{
+    font-size:14px
+}
+.card-sub{
+    color:#8d8d8d;
+    border-top:1px solid #e5e5e5;
+    padding-top:10px
+}
+.card-sub .float-right.mt-2{
+    margin-top:9px!important
+}
+.blog-body{
+    color:#8d8d8d
+}
+.profile-menu .nav-tabs{
+    border-bottom:1px solid #e5e5e5
+}
+.profile-menu .nav-tabs .nav-item.show .nav-link a,.profile-menu .nav-tabs .nav-link.active a{
+    color:#fff!important
+}
+.profile-menu .nav-tabs .nav-link:focus,.profile-menu .nav-tabs .nav-link:hover{
+    border-color:#e5e5e5;
+    background-color:#e5e5e5;
+    margin-bottom:-1px;
+    color:#404040
+}
+.profile-menu .nav-tabs .nav-link:focus a,.profile-menu .nav-tabs .nav-link:hover a{
+    color:#404040
+}
+.profile-menu .nav-tabs .nav-item.show .nav-link,.profile-menu .nav-tabs .nav-link.active{
+    background-color:#f54a5d;
+    border-color:#f54a5d;
+    margin-bottom:-1px
+}
+.profile-menu .nav-link{
+    padding:10px
+}
+.m-l-14{
+    margin-left:14px
+}
+fieldset{
+    color:#404040
+}
+h5{
+    color:#404040
+}
+.table-dark{
+    color:#606060;
+    background-color:#e5e5e5!important
+}
+.table-dark.table-striped tbody tr:nth-of-type(odd){
+    background-color:rgba(255,255,255,.5)!important
+}
+.table-dark td,.table-dark th,.table-dark thead th{
+    border-color:#ccc!important
+}
+.tmb-active{
+    outline:2px solid green
+}
+
