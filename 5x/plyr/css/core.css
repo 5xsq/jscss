@@ -213,11 +213,18 @@ a.text-light:hover,a.text-light:focus {
 }
 .showx {
 	display:none;
-	width:100%;
-	font-size:17px;
-	padding:0 7px 3px;
-	color:#fff;
-	margin-top:20px
+	position: absolute;
+	top: -30px;
+	left: 50%;
+	transform: translateX(-50%);
+	width: auto;
+	line-height: 28px;
+	border-radius: 15px;
+	font-size: 16px;
+	height: 30px;
+	text-transform: lowercase;
+	font-weight: 400;
+	padding: 0 6px;
 }
 
 
